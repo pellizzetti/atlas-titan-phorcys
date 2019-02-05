@@ -1,0 +1,43 @@
+{
+  "name": "atlas-titan-phorcys",
+  "version": "0.0.1",
+  "description": "Highly extensible learning platform",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pellizzetti/atlas-titan-phorcys.git"
+  },
+  "keywords": [
+    "learning",
+    "platform",
+    "api",
+    "admin",
+    "express",
+    "typescript",
+    "graphql",
+    "prisma",
+    "react",
+    "jest"
+  ],
+  "author": {
+    "email": "oi@rocketseat.com.br",
+    "name": "Rocketseat team",
+    "url": "https://rocketseat.com.br/"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pellizzetti/atlas-titan-phorcys/issues"
+  },
+  "homepage": "https://github.com/pellizzetti/atlas-titan-phorcys#readme",
+  "devDependencies": {
+    "jest": "^24.0.0",
+    "supertest": "^3.4.2"
+  },
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
