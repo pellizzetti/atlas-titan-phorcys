@@ -22,7 +22,7 @@ Although this list cannot be exhaustive, we explicitly honor diversity in age, g
 If you experience or witness unacceptable behavior—or have any other concerns—please report it by contacting us via oi@rocketseat.com.br. All reports will be handled with discretion. In your report please include:
 
 - Your contact information.
-- Names (real, nicknames, or pseudonyms) of any individuals involved. If there are additional witnesses, please include them as well. Your account of what occurred, and if you believe the incident is ongoing. If there is a publicly available record (e.g. a mailing list archive or a public IRC logger), please include a link.
+- Names (real, nicknames, or pseudonyms) of any individuals involved. If there are additional witnesses, please include them as well. Your account of what occurred, and if you believe the incident is ongoing. If there is a publicly available record, please include a link.
 - Any additional information that may be helpful.
 
 After filing a report, a representative will contact you personally. If the person who is harassing you is part of the response team, they will recuse themselves from handling your incident. A representative will then review the incident, follow up with any additional questions, and make a decision as to how to respond. We will respect confidentiality requests for the purpose of protecting victims of abuse.
