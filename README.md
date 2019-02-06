@@ -11,7 +11,9 @@
 <br />
 
 <p align="center">
-  <span>badges<span>
+  <a href=".github/CONTRIBUTING.md">
+    <img src="https://img.shields.io/badge/PRs%20-welcome-brightgreen.svg" alt="PRs welcome" />
+  </a>
   <span>badges<span>
   <span>badges<span>
   <span>badges<span>
@@ -56,7 +58,7 @@ atlas-titan-phorcys start
 
 ## Contributing
 
-Before submitting a Pull Request, propose changes and/or improvements, please take some time to read our [contributing guide](./CONTRIBUTING.md).
+Before submitting a Pull Request, propose changes and/or improvements, please take some time to read our [contributing guide](.github/CONTRIBUTING.md).
 
 ## License
 
