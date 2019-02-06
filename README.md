@@ -62,4 +62,4 @@ Before submitting a Pull Request, propose changes and/or improvements, please ta
 
 ## License
 
-This project is [MIT licensed](./LICENSE) Copyright (c) 2019 [Atlas Titan Phorcys](https://http://example.org/).
+This project is [MIT licensed](LICENSE) Copyright (c) 2019 [Atlas Titan Phorcys](https://http://example.org/).
